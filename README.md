@@ -16,4 +16,14 @@ By analyzing this dataset, we explore various dimensions of Target's business in
  As a data analyst/scientist at Target, your task is to analyze the dataset to extract valuable insights and provide actionable recommendations.
 
 **Goals**
+1. **Exploratory Data Analysis (EDA):**
+   * Check the structure and characteristics of the dataset.
+   * Determine the data types of all columns in the "customers" table.
+   * Find the time range of orders placed.
+   * Count the cities and states of customers who ordered during the given period.
+2. **Trend Analysis:**
+   * Analyze the trend in the number of orders placed over the years.
+   * Identify monthly seasonality in order placement.
+   * Determine the time of day Brazilian customers mostly place their orders (Dawn, Morning, Afternoon, Night).
+
 
