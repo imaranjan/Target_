@@ -10,3 +10,10 @@ By analyzing this dataset, we explore various dimensions of Target's business in
   *  Customer demographics
   *  Product characteristics
   *  Customer satisfaction levels
+
+
+# Problem Statement
+ As a data analyst/scientist at Target, your task is to analyze the dataset to extract valuable insights and provide actionable recommendations.
+
+**Goals**
+
