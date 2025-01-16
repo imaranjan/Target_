@@ -13,7 +13,7 @@ By analyzing this dataset, we explore various dimensions of Target's business in
 
 
 # Problem Statement
- As a data analyst/scientist at Target, your task is to analyze the dataset to extract valuable insights and provide actionable recommendations.
+ As a data analyst/scientist at Target, we analyze the dataset to extract valuable insights and provide actionable recommendations.
 
 **Goals**
 1. **Exploratory Data Analysis (EDA):**
