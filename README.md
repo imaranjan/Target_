@@ -46,4 +46,19 @@ By analyzing this dataset, we explore various dimensions of Target's business in
    * Track month-on-month orders by payment type.
    * Analyze the number of orders based on payment installments.
 
+# Technologies Used
+   * Google BigQuery: Data storage and analysis
 
+# Project Workflow
+   * **Data Exploration:** Initial examination of dataset structure and quality.
+   * **Data Analysis:** Uncovering insights into customer behavior, product trends, and operational performance.
+
+# Results
+   * Identified key drivers of customer satisfaction and dissatisfaction.
+   * Highlighted efficient and inefficient freight routes and payment methods.
+   * Gained insights into product categories with the highest and lowest demand.
+   * Revealed patterns in customer demographics and purchasing behavior.
+
+
+
+**Author:** Ashish Ranjan
