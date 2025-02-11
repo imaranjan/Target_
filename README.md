@@ -47,7 +47,7 @@ By analyzing this dataset, we explore various dimensions of Target's business in
    * Analyze the number of orders based on payment installments.
 
 # Technologies Used
-   * Google BigQuery: Data storage and analysis
+   * **Google BigQuery:** Data storage and analysis
 
 # Project Workflow
    * **Data Exploration:** Initial examination of dataset structure and quality.
